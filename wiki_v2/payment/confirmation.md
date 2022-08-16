@@ -8,5 +8,5 @@ order: 6
 
 ![Imgur](https://i.ibb.co/VMFfSjL/ZUjk7qh.png)
 
-- 결제 즉시 **이메일 영수증**이 자동 발급됩니다.
-- 또한 **Dashboard > My Payment History > Receipt**에서 확인할 수 있습니다!
+- 영수증은 **결제 즉시 자동으로 발급**되며 이메일로 보내드립니다.
+- **Dashboard > My Payment History > Receipt**에서 확인할 수 있습니다.
