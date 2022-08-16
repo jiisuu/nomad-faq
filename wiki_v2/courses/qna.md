@@ -1,5 +1,5 @@
 ---
-title: 이슈 사용법
+title: 질문 방법
 category: 강의
 order: 4
 ---
