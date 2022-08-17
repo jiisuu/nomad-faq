@@ -15,8 +15,15 @@ order: 4
 
 ### 지난 커뮤니티 이벤트
 
+모든 커뮤니티 이벤트 소식은 [community - announcement](https://nomadcoders.co/community/announcement) 에서 확인할 수 있어요.
+
 > ![Imgur](https://i.ibb.co/8bSTrpc/Screen-Shot-2021-09-07-at-1-04-18-PM.png)
 
+- 2022년 5월. [줌 클론코딩 컨테스트](https://nomadcoders.co/community/thread/5484)
+- 2022년 3월. [개발자 썰 이벤트](https://nomadcoders.co/community/thread/3243)
+- 2022년 2월. [캐럿마켓 도전 당근벨](https://nomadcoders.co/community/thread/1836)
+- 2022년 1월. [캐럿마켓 기대평 이벤트](https://nomadcoders.co/community/thread/1639)
+- 2022년 1월. [채용리스트 컨테스트](https://nomadcoders.co/community/thread/1622)
 - 2021년 11월. [날씨앱 컨테스트](https://nomadcoders.co/community/thread/1333)
 - 2021년 9월. [트위터 클론코딩 컨테스트](https://nomadcoders.co/community/thread/1115)
 - 2021년 5월. [심리테스트 만들기](https://nomadcoders.co/community/thread/711)
