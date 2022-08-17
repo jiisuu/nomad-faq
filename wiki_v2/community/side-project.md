@@ -19,3 +19,5 @@ order: 3
   - 2019년 8월. [Nomad Guide](https://nomadguide.glideapp.io/)
   - 2019년 9월. [Nomad Jobs](https://nomad-jobs.carrd.co/)
   - 2019년 12월. [노마드 굿즈 3종](https://tumblbug.com/nomadcoders_goods)
+  - 2022년 1월. [노마드 북클럽(클린코드, 실용주의 프로그래머)](https://nomadcoders.co/community/thread/1639)
+  - 2022년 4월. [개발자 데스크셋업](https://nomadcoders.oopy.io/desk-setup)
