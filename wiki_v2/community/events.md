@@ -17,7 +17,7 @@ order: 4
 
 모든 커뮤니티 이벤트 소식은 [community - announcement](https://nomadcoders.co/community/announcement) 에서 확인할 수 있어요.
 
-> ![Imgur](https://i.ibb.co/qMcnwQG/image.png)
+> ![Imgur](https://i.ibb.co/nmQHRCS/1.png)
 
 - 2022년 5월. [줌 클론코딩 컨테스트](https://nomadcoders.co/community/thread/5484)
 - 2022년 3월. [개발자 썰 이벤트](https://nomadcoders.co/community/thread/3243)

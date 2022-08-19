@@ -13,9 +13,9 @@ order: 1
 - 노마드코더 슬랙은 국내 및 해외에서 활동하는 현직, 예비 개발자 약 3만 여명이 활동하고 있는 개발자 커뮤니티입니다. 슬랙을 통해서 수강생들은 서로 교류하고 소통하며 더 원활하게 스터디하고 있습니다. 또한 챌린지, 아카데미, 수업 관련 공지사항 등을 슬랙에서 가장 먼저 알려드리니, 반드시 슬랙 채팅방에 가입하시는 걸 추천해 드립니다.
 
 - 슬랙 미리보기
-![](https://i.ibb.co/643RctB/image.png)
-![](https://i.ibb.co/JvPMzLR/image.png)
-![](https://i.ibb.co/TR5hXTz/image.png)
+>![](https://i.ibb.co/KLxpK8M/slack.png)
+>![](https://i.ibb.co/ZdFJk7Y/Group-18.png)
+>![](https://i.ibb.co/t4RVs71/Group-17.png)
 ### 슬랙 참여 방법
 
 - [https://nomadcoders.co/slack](https://nomadcoders.co/slack) 이동
