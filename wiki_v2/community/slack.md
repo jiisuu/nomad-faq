@@ -16,7 +16,6 @@ order: 1
 ![](https://i.ibb.co/643RctB/image.png)
 ![](https://i.ibb.co/JvPMzLR/image.png)
 ![](https://i.ibb.co/TR5hXTz/image.png)
-
 ### 슬랙 참여 방법
 
 - [https://nomadcoders.co/slack](https://nomadcoders.co/slack) 이동
