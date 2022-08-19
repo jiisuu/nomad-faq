@@ -15,7 +15,6 @@ order: 1
 - 슬랙 미리보기
 >![](https://i.ibb.co/KLxpK8M/slack.png)
 >![](https://i.ibb.co/ZdFJk7Y/Group-18.png)
->![](https://i.ibb.co/t4RVs71/Group-17.png)
 ### 슬랙 참여 방법
 
 - [https://nomadcoders.co/slack](https://nomadcoders.co/slack) 이동
