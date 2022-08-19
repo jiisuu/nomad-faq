@@ -8,7 +8,7 @@ order: 4
 
 ### 커뮤니티 이벤트 소개
 
-> ![Imgur](https://i.ibb.co/YWQ3x62/image.png)
+> ![Imgur](https://i.ibb.co/hVxjYJn/2.png)
 
 - 노마드코더는 단순히 온라인 강의를 제공하는 곳이 아니라, 함께 성장하는 커뮤니티를 만들고자 합니다.
 - 이를 위해서 2017년 슬랙 채널을 개설하고, 2018년 해커톤 개최, 2019년 해커하우스 운영, 2020년 온라인 해커톤 등등 다양한 온·오프라인 커뮤니티 활동을 이어오고 있습니다.
@@ -17,7 +17,7 @@ order: 4
 
 모든 커뮤니티 이벤트 소식은 [community - announcement](https://nomadcoders.co/community/announcement) 에서 확인할 수 있어요.
 
-> ![Imgur](https://i.ibb.co/nmQHRCS/1.png)
+> ![Imgur](https://i.ibb.co/wsCVRdj/1.png)
 
 - 2022년 5월. [줌 클론코딩 컨테스트](https://nomadcoders.co/community/thread/5484)
 - 2022년 3월. [개발자 썰 이벤트](https://nomadcoders.co/community/thread/3243)
