@@ -39,6 +39,7 @@ order: 1
   - 코코아 클론 챌린지 : #html-css 채널로 입장
   - 바닐라 JS 챌린지: #javascript 채널로 입장
   - 유튜브 클론 챌린지: #javascript 채널로 입장
+  - 줌 클론 챌린지: #javascript 채널로 입장
   - 파이썬 챌린지: #python 채널로 입장
   - 에어비앤비 챌린지: #python 채널로 입장
   - CSS 챌린지: #html-css 채널로 입장
