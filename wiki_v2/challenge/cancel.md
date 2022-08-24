@@ -11,3 +11,5 @@ order: 5
 > ![](https://i.ibb.co/CKFBhH4/Group-23.png)
 ### 3. 상단 중앙에 있는 '챌린지 취소하기'를 클릭해 주세요.
 > ![](https://i.ibb.co/3rw3f4V/Group-24.png)
+### 4. 취소가 완료되면 신청 페이지로 돌아갑니다.
+> ![](https://i.ibb.co/mtDwMvP/image-12.png)
